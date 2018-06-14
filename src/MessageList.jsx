@@ -11,7 +11,7 @@ class MessageList extends React.Component {
         });
         return (
             <main className="messages">
-                {messages_array};
+                {messages_array}
             </main>
         );
     }

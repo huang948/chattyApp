@@ -9,6 +9,17 @@ body {
   margin: 70px 0;
 }
 
+.size {
+  float: right;
+  line-height: 60px;
+  vertical-align: middle;
+  margin: 0;
+}
+
+.media {
+  width: 60%;
+}
+
 .chatbar {
   background: tomato;
   border-top: 1px solid black;
@@ -39,7 +50,6 @@ body {
 }
 
 .message {
-  display: flex;
   padding: 5px;
 }
 
